@@ -18,5 +18,40 @@
       "email": "user2@gmail.com",
       "password": "987654321"
     }
-  ]
+  ],
+  "Products": [
+    {
+      "id": "45db",
+      "productname": "mobile",
+      "productimage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVyEYbEPxZygtn68FkDs5lJ2RJGuKvmt0wCA&usqp=CAU",
+      "price": "12345",
+      "desc": "this is mobile",
+      "available": true
+    },
+    {
+      "id": "f465",
+      "productname": "mobile",
+      "productimage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVyEYbEPxZygtn68FkDs5lJ2RJGuKvmt0wCA&usqp=CAU",
+      "price": "12345",
+      "desc": "this is mobile",
+      "available": false
+    },
+    {
+      "id": "a304",
+      "productname": "mobile",
+      "productimage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVyEYbEPxZygtn68FkDs5lJ2RJGuKvmt0wCA&usqp=CAU",
+      "price": "12345",
+      "desc": "this is mobile",
+      "available": true
+    },
+    {
+      "id": "0e23",
+      "productname": "qwerty",
+      "productimage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVyEYbEPxZygtn68FkDs5lJ2RJGuKvmt0wCA&usqp=CAU",
+      "price": "23456",
+      "desc": "3456789",
+      "available": true
+    }
+  ],
+  "Cart": []
 }
