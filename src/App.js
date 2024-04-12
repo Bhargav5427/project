@@ -1,4 +1,4 @@
-import AdminNav from "./admin/header/AdminNav";
+import AdminNav from "./api/header/AdminNav";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 

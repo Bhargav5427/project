@@ -34,7 +34,7 @@
       "productimage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVyEYbEPxZygtn68FkDs5lJ2RJGuKvmt0wCA&usqp=CAU",
       "price": "12345",
       "desc": "this is mobile",
-      "available": false
+      "available": true
     },
     {
       "id": "a304",
